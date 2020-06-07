@@ -1,0 +1,44 @@
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Release\Zhuangbility.exe.config
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Release\Zhuangbility.exe
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Release\Zhuangbility.pdb
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Release\MaterialDesignColors.dll
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Release\MaterialDesignColors.pdb
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility.csprojAssemblyReference.cache
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\MainWindow.g.cs
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\App.g.cs
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility_MarkupCompile.cache
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility_MarkupCompile.lref
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\App.baml
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\MainWindow.baml
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility.g.resources
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility.Properties.Resources.resources
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility.csproj.GenerateResource.cache
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility.csproj.CoreCompileInputs.cache
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility.csproj.CopyComplete
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility.exe
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Release\Zhuangbility.pdb
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Release\Zhuangbility.exe.config
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Release\Zhuangbility.exe
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Release\Zhuangbility.pdb
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Release\MaterialDesignColors.dll
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Release\MaterialDesignColors.pdb
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility.csprojAssemblyReference.cache
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\MainWindow.g.cs
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\App.g.cs
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility_MarkupCompile.cache
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility_MarkupCompile.lref
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\App.baml
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\MainWindow.baml
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility.g.resources
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility.Properties.Resources.resources
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility.csproj.GenerateResource.cache
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility.csproj.CoreCompileInputs.cache
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility.csproj.CopyComplete
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility.exe
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Release\Zhuangbility.pdb

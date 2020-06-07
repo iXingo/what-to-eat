@@ -1,0 +1,44 @@
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Debug\Zhuangbility.exe.config
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Debug\Zhuangbility.exe
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Debug\Zhuangbility.pdb
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility.csprojAssemblyReference.cache
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\MainWindow.g.cs
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\App.g.cs
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility_MarkupCompile.cache
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility_MarkupCompile.lref
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\MainWindow.baml
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility.g.resources
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility.Properties.Resources.resources
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility.csproj.GenerateResource.cache
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility.csproj.CoreCompileInputs.cache
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility.exe
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility.pdb
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Debug\MaterialDesignColors.dll
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Debug\MaterialDesignColors.pdb
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\App.baml
+C:\Users\shawang\source\repos\Zhuangbility\Zhuangbility\obj\Debug\Zhuangbility.csproj.CopyComplete
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Debug\Zhuangbility.exe.config
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Debug\Zhuangbility.exe
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Debug\Zhuangbility.pdb
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Debug\MaterialDesignColors.dll
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Debug\MaterialDesignColors.pdb
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility.csprojAssemblyReference.cache
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\MainWindow.g.cs
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\App.g.cs
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility_MarkupCompile.cache
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility_MarkupCompile.lref
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\App.baml
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\MainWindow.baml
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility.g.resources
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility.Properties.Resources.resources
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility.csproj.GenerateResource.cache
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility.csproj.CoreCompileInputs.cache
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility.csproj.CopyComplete
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility.exe
+C:\Users\shawang\source\repos\Zhuangbility - Copy\Zhuangbility\obj\Debug\Zhuangbility.pdb

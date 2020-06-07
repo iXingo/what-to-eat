@@ -1,0 +1,49 @@
+﻿<Window x:Class="Zhuangbility.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:materialDesignConverters="clr-namespace:MaterialDesignThemes.Wpf.Converters;assembly=MaterialDesignThemes.Wpf"
+        xmlns:local="clr-namespace:Zhuangbility"
+        mc:Ignorable="d"
+        Title="💖中午吃什么" Height="450" Width="767.983">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Card.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Button.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.TextBlock.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Label.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+            <materialDesignConverters:BooleanToVisibilityConverter x:Key="InvertedBooleanToVisibilityConverter" TrueValue="Collapsed" FalseValue="Visible" />
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <materialDesign:Card
+                Foreground="{DynamicResource PrimaryHueDarkBrush}"
+                Padding="8" Margin="0,0,0.286,-0.286">
+            <Canvas>
+                <TextBlock x:Name="content" HorizontalAlignment="Left" Width="148" Canvas.Left="215" Canvas.Top="160" Height="30" FontSize="20" TextWrapping="Wrap" ><Run Text="今天中午"/><Run Text="我"/><Run Text="要吃:"/></TextBlock>
+                <TextBlock x:Name="food"    HorizontalAlignment="Left" Width="309" Canvas.Left="380" Canvas.Top="142" Height="57" FontSize="40" TextWrapping="Wrap" FontWeight="ExtraBold" Text="什么呢 ?"/>
+                <Button
+                Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                Width="147"
+                    x:Name="btnMore"
+                ToolTip="点击开始决定你要吃什么"  Canvas.Left="172" Canvas.Top="296" Click="btnMore_Click">
+                    ⏭ 开始决策
+                </Button>
+                <Button
+                Style="{StaticResource MaterialDesignRaisedDarkButton}"
+                Width="148"
+                    x:Name="btnCopy"
+                ToolTip="点击复制吃的到粘贴板" Canvas.Left="437" Canvas.Top="296" Click="btnCopy_Click">
+                    📑 复制到粘贴板
+                </Button>
+                <Label Content="由 @程序员汪师傅 制作" Canvas.Left="2" Canvas.Top="388" Width="730" FontSize="10"/>
+                <Label Content="      吃什么" Canvas.Left="303" Canvas.Top="39" Width="121" FontSize="18"/>
+            </Canvas>
+        </materialDesign:Card>
+    </Grid>
+</Window>
